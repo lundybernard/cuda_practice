@@ -1,0 +1,21 @@
+# Backup files
+*.~
+*.swp
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pkl
+
+
+# Distribution / packaging
+MANIFEST
+build/
+dist/
+*.egg-info/
+
+
+# temp/test directories
+tmp/*
+
