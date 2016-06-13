@@ -19,3 +19,5 @@ dist/
 # temp/test directories
 tmp/*
 
+# jupyter checkpoints
+.ipynb_checkpoints/*
